@@ -1,0 +1,17 @@
+body {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+canvas {
+    background: linear-gradient(to right, #333 50%, #555 50%);
+    border: 3px solid white;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
